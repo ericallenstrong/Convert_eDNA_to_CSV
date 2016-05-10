@@ -1,0 +1,14 @@
+C:\Users\estrong.THE_DEI_GROUP\Documents\Visual Studio 2012\Projects\Convert_eDNA_To_CSV\Convert_eDNA_To_CSV\bin\Debug\Convert_eDNA_To_CSV.exe.config
+C:\Users\estrong.THE_DEI_GROUP\Documents\Visual Studio 2012\Projects\Convert_eDNA_To_CSV\Convert_eDNA_To_CSV\bin\Debug\Convert_eDNA_To_CSV.exe
+C:\Users\estrong.THE_DEI_GROUP\Documents\Visual Studio 2012\Projects\Convert_eDNA_To_CSV\Convert_eDNA_To_CSV\bin\Debug\Convert_eDNA_To_CSV.pdb
+C:\Users\estrong.THE_DEI_GROUP\Documents\Visual Studio 2012\Projects\Convert_eDNA_To_CSV\Convert_eDNA_To_CSV\bin\Debug\EzDNAApiNet.dll
+C:\Users\estrong.THE_DEI_GROUP\Documents\Visual Studio 2012\Projects\Convert_eDNA_To_CSV\Convert_eDNA_To_CSV\obj\Debug\Convert_eDNA_To_CSV.csprojResolveAssemblyReference.cache
+C:\Users\estrong.THE_DEI_GROUP\Documents\Visual Studio 2012\Projects\Convert_eDNA_To_CSV\Convert_eDNA_To_CSV\obj\Debug\Convert_eDNA_To_CSV.exe
+C:\Users\estrong.THE_DEI_GROUP\Documents\Visual Studio 2012\Projects\Convert_eDNA_To_CSV\Convert_eDNA_To_CSV\obj\Debug\Convert_eDNA_To_CSV.pdb
+X:\Scripts and Programs\Convert_eDNA_To_CSV\Convert_eDNA_To_CSV\bin\Debug\Convert_eDNA_To_CSV.exe.config
+X:\Scripts and Programs\Convert_eDNA_To_CSV\Convert_eDNA_To_CSV\obj\Debug\Convert_eDNA_To_CSV.exe
+X:\Scripts and Programs\Convert_eDNA_To_CSV\Convert_eDNA_To_CSV\obj\Debug\Convert_eDNA_To_CSV.pdb
+X:\Scripts and Programs\Convert_eDNA_To_CSV\Convert_eDNA_To_CSV\bin\Debug\Convert_eDNA_To_CSV.exe
+X:\Scripts and Programs\Convert_eDNA_To_CSV\Convert_eDNA_To_CSV\bin\Debug\Convert_eDNA_To_CSV.pdb
+X:\Scripts and Programs\Convert_eDNA_To_CSV\Convert_eDNA_To_CSV\bin\Debug\EzDNAApiNet.dll
+X:\Scripts and Programs\Convert_eDNA_To_CSV\Convert_eDNA_To_CSV\obj\Debug\Convert_eDNA_To_CSV.csprojResolveAssemblyReference.cache
