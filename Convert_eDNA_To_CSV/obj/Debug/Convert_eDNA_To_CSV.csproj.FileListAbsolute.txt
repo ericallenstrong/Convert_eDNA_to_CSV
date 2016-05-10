@@ -12,3 +12,6 @@ X:\Scripts and Programs\Convert_eDNA_To_CSV\Convert_eDNA_To_CSV\bin\Debug\Conver
 X:\Scripts and Programs\Convert_eDNA_To_CSV\Convert_eDNA_To_CSV\bin\Debug\Convert_eDNA_To_CSV.pdb
 X:\Scripts and Programs\Convert_eDNA_To_CSV\Convert_eDNA_To_CSV\bin\Debug\EzDNAApiNet.dll
 X:\Scripts and Programs\Convert_eDNA_To_CSV\Convert_eDNA_To_CSV\obj\Debug\Convert_eDNA_To_CSV.csprojResolveAssemblyReference.cache
+C:\Users\estrong.THE_DEI_GROUP\Documents\DEI\GitHub\Convert_eDNA_to_CSV\Convert_eDNA_To_CSV\bin\Debug\Convert_eDNA_To_CSV.exe.config
+C:\Users\estrong.THE_DEI_GROUP\Documents\DEI\GitHub\Convert_eDNA_to_CSV\Convert_eDNA_To_CSV\obj\Debug\Convert_eDNA_To_CSV.exe
+C:\Users\estrong.THE_DEI_GROUP\Documents\DEI\GitHub\Convert_eDNA_to_CSV\Convert_eDNA_To_CSV\obj\Debug\Convert_eDNA_To_CSV.pdb
